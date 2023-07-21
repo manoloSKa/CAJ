@@ -14,6 +14,7 @@ public class Login extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException 
     {
+        // aqui deberia haber colocado el codigo para llamar a la base dedatos y validar el usuario
         String username = request.getParameter("username");
         String password = request.getParameter("password");
         response.setContentType("text/html;charset=UTF-8");

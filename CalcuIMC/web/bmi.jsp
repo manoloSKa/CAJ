@@ -4,6 +4,7 @@
 <head>
     <title>IMC - Índice de Masa Corporal</title>
 </head>
+
 <body>
     <h1>IMC - Índice de Masa Corporal</h1>
     <h2>Datos del usuario</h2>
